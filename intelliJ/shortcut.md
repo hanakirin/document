@@ -88,7 +88,7 @@ command + shift + F
 command + 7  
 ※ペイン表示
 
-command + F12  
+command + fn + F12  
 ※ダイアログ表示
 
 #### 【宣言へ移動】
